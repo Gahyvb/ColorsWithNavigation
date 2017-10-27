@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "98BE852FE3B9C7127DE07DB025CEE880DD93582A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "98BE852FE3B9C7127DE07DB025CEE880DD93582A" : 9223372036854775807,
+    "5B50298940E1322793F31B291FDA6294689018F7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4486F78-03AF-4C28-A45C-AB724D7A7799",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "98BE852FE3B9C7127DE07DB025CEE880DD93582A" : "ColorsWithNavigation\/",
+    "5B50298940E1322793F31B291FDA6294689018F7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Colors with Navigation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Colors with Navigation\/Colors with Navigation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gahyvb\/INFOTC4001.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B50298940E1322793F31B291FDA6294689018F7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gahyvb\/ColorsWithNavigation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98BE852FE3B9C7127DE07DB025CEE880DD93582A"
+    }
+  ]
+}
